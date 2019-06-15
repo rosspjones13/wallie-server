@@ -15,7 +15,7 @@ You can see a video demonstration [here](https://www.youtube.com/watch?v=RpC6494
 
 ### Clone this repository and the client repository at:
 
-Gym Buddies ReactJS Client: [https://github.com/rosspjones13/wallie-frontend](https://github.com/rosspjones13/wallie-frontend).<br>
+Gym Buddies ReactJS Client: [https://github.com/rosspjones13/wallie-client](https://github.com/rosspjones13/wallie-client).<br>
 Follow the steps to run the client.
 
 ### How to start the server:
